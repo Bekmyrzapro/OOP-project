@@ -1,4 +1,4 @@
-# OOP-project 
+# OOP-project.
 https://youtu.be/FdqTddaVcqo - It is link to youtube video. 
 This project is made by Bekmyrza Dzhekshenaliev and Chyngyz Utkelbaev.
 ![Снимок экрана (26)](https://user-images.githubusercontent.com/74038682/148506147-701b9cde-b8cf-4388-a008-cffd43734ae5.png)
